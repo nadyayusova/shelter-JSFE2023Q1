@@ -6,6 +6,6 @@
 - подробности задания в консоли
 - задание принимается в браузере Google Chrome последней версии
 
-Демо: [https://nadyayusova.github.io/shelter-jsfe2023q1/](https://nadyayusova.github.io/shelter-jsfe2023q1/)
+Демо: [https://nadyayusova.github.io/shelter-JSFE2023Q1/](https://nadyayusova.github.io/shelter-JSFE2023Q1/)
 
 PS: в пагинации цифры не криво, это шрифт неудачный (см. номер карты в index.html)
