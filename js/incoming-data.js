@@ -1,7 +1,7 @@
 const petsData = [
   {
     "name": "Jennifer",
-    "dir": "../img/content/",
+    "dir": "img/content/",
     "img": "pets-jennifer",
     "ext": "jpg",
     "type": "Dog",
@@ -14,7 +14,7 @@ const petsData = [
   },
   {
     "name": "Sophia",
-    "dir": "../img/content/",
+    "dir": "img/content/",
     "img": "pets-sophia",
     "ext": "jpg",
     "type": "Dog",
@@ -27,7 +27,7 @@ const petsData = [
   },
   {
     "name": "Woody",
-    "dir": "../img/content/",
+    "dir": "img/content/",
     "img": "pets-woody",
     "ext": "jpg",
     "type": "Dog",
@@ -40,7 +40,7 @@ const petsData = [
   },
   {
     "name": "Scarlett",
-    "dir": "../img/content/",
+    "dir": "img/content/",
     "img": "pets-scarlet",
     "ext": "jpg",
     "type": "Dog",
@@ -53,7 +53,7 @@ const petsData = [
   },
   {
     "name": "Katrine",
-    "dir": "../img/content/",
+    "dir": "img/content/",
     "img": "pets-katrine",
     "ext": "jpg",
     "type": "Cat",
@@ -66,7 +66,7 @@ const petsData = [
   },
   {
     "name": "Timmy",
-    "dir": "../img/content/",
+    "dir": "img/content/",
     "img": "pets-timmy",
     "ext": "jpg",
     "type": "Cat",
@@ -79,7 +79,7 @@ const petsData = [
   },
   {
     "name": "Freddie",
-    "dir": "../img/content/",
+    "dir": "img/content/",
     "img": "pets-freddie",
     "ext": "jpg",
     "type": "Cat",
@@ -92,7 +92,7 @@ const petsData = [
   },
   {
     "name": "Charly",
-    "dir": "../img/content/",
+    "dir": "img/content/",
     "img": "pets-charly",
     "ext": "jpg",
     "type": "Dog",
